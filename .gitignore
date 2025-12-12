@@ -67,3 +67,11 @@ yarn-debug.log*
 /storage/*
 !/storage/.keep
 /public/uploads
+/.bundle/
+/doc/
+/log/*.log
+/pkg/
+/tmp/
+/test/dummy/log/*.log
+/test/dummy/storage/
+/test/dummy/tmp/
